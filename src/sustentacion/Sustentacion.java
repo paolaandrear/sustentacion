@@ -17,13 +17,13 @@ public class Sustentacion {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // 
       int num1=0;
       int num2=0;
       int suma;
         
-       num1=Integer.parseInt(JOptionPane.showInputDialog(null,"ingrese "));
-        num1=Integer.parseInt(JOptionPane.showInputDialog(null,"ingrese "));
+       num1=Integer.parseInt(JOptionPane.showInputDialog(null,"ingrese el primer numero "));
+        num2=Integer.parseInt(JOptionPane.showInputDialog(null,"ingrese el segundo numero  "));
         
         if(num1==num2){
         
